@@ -1,6 +1,6 @@
-# uangkoo
+# Food Order
 
-Money Tracker App with Flutter - Soon
+Food Order with Flutter + Google Sheets
 
 <img
   src="https://i.ibb.co/GdWYbGb/Youtube-Thumbnail-54.png"
